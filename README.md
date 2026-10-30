@@ -25,7 +25,7 @@ GitHub Pages is subject to GitHub's current policies and usage limits. No custom
 
 ## Before publishing
 
-- Verify LinkedIn `https://www.linkedin.com/in/rangarajankk/`, and GitHub `https://github.com/rkachi1` are the links you want recruiters to see. They were taken from the supplied resume.
+- Verify LinkedIn `https://www.linkedin.com/in/rangarajankk/`, and GitHub `https://github.com/madhankk8` are the links you want recruiters to see. They were taken from the supplied resume.
 - Check credential titles, expiration status, and links. The Snowflake and Databricks credentials were supplied as links; exact award metadata may require checking on their issuers' sites.
 - Project metrics and descriptions are based on information supplied in the conversation. Verify them and obtain any necessary employer approval before public posting.
 - All visual charts are **synthetic conceptual illustrations**, not actual employer data or dashboard screenshots. No confidential source code is included.
